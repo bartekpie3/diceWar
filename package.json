@@ -1,0 +1,10 @@
+{
+  "name": "dice-war",
+  "scripts": {
+    "dev": "nuxt -c client/game/nuxt.config.js"
+  },
+  "dependencies": {
+    "nuxt": "^2.6.3",
+    "@nuxtjs/axios": "^5.4.1"
+  }
+}
